@@ -1,6 +1,6 @@
 ---
 
-<h1><center><font color='#82ad32'>Gasto Público em Educação x Desempenho no PISA</font></center></h1>
+Gasto Público em Educação x Desempenho no PISA
 
 ---
 
