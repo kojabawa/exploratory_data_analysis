@@ -8,4 +8,8 @@ O objetivo deste trabalho é avaliar possíveis correlações entre o gasto púb
 
 Vale notar que por gasto público em educação nos referimos à porcentagem do PIB investida pelo país na educação primária e secundária. O desempenho do país no PISA, por sua vez, faz referência à nota de cada país na prova e está dividido em três bases, uma para cada área do conhecimento avaliada: Leitura, Matemática e Ciência. Maiores informações a respeito do PISA podem ser encontradas [aqui](http://portal.inep.gov.br/pisa), no site do INEP.
 
+---
+
 > [Vídeo da Apresentação](https://drive.google.com/file/d/1Yio6a-DK5tmZ_Wa7uIHvt-6I2OKgyPlr/view?usp=sharing)
+
+> [Site da Prof Asla](https://sites.google.com/view/aslasa/home)
