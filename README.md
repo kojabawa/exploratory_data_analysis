@@ -2,8 +2,6 @@
 
 # Gasto Público em Educação x Desempenho no PISA
 
----
-
 > [Vídeo da Apresentação](https://drive.google.com/file/d/1Yio6a-DK5tmZ_Wa7uIHvt-6I2OKgyPlr/view?usp=sharing)
 
 O objetivo deste trabalho é avaliar possíveis correlações entre o gasto público de um país em educação e o desempenho dos alunos deste país na prova do Programa Internacional de Avaliação de Estudantes (PISA). Todas as informações necessárias foram baixadas no site de dados da OCDE [aqui](https://data.oecd.org/), onde é possível encontrar o histórico dos indicadores pertinentes em formato ```.csv```. 
